@@ -1,7 +1,1 @@
 
-hello this changes are done by user1
-
-these are the changes done by user2 
-
-
-merge conflict sorted
